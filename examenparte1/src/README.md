@@ -22,3 +22,7 @@ Ahora creo un nuevo proyecto en IntelliJ y copio un programa ya hecho, después 
 De esta forma ya está el Readme y el proyecto subidos a mi repositorio
 
 Estos comandos también se podrían hacer directamente desde el IDE.
+
+Aparecen dos Readme.md en el repositorio porque quise cambiarlo de carpeta para tener todo junto.
+
+Vuelvo a realizar los pasos para subir esta modificación a mi repositorio
